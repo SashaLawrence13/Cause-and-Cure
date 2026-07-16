@@ -24,7 +24,7 @@ see what it causes and what covers it — in either direction.
 
 **Found a mistake in the data, or something not working?**
 
-Open an issue on this repository, or email **CONTACT_EMAIL_HERE**.
+Open an issue on this repository, or email causeandcuresupport@gmail.com.
 
 If you're reporting a data problem, it helps enormously to include:
 
