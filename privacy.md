@@ -65,4 +65,4 @@ it took effect.
 
 ## Contact
 
-Questions about this policy: **CONTACT_EMAIL_HERE**
+Questions about this policy: causeandcuresupport@gmail.com
